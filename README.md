@@ -6,7 +6,7 @@ SPAS is a web-based system that tracks student performance, predicts future exam
 Backend: Flask (Python), SQLAlchemy (Database ORM)
 Frontend: React.js (HTML, CSS, JavaScript)
 Database: SQLite (Development), PostgreSQL/MySQL (Production)
-Machine Learning: Python (Scikit-Learn, Pandas, NumPy)
+Machine Learning: Python (Scikit-Learn, Pandas, NumPy) 
 
 📂 Features
 
