@@ -1,5 +1,5 @@
 # SPAS-Project
-📌 Student Performance Analysis System (SPAS)
+📌 Student Performance Analysis System (SPAS)    
 SPAS is a web-based system that tracks student performance, predicts future exam scores using Machine Learning, and provides real-time faculty alerts.
 
 🚀 Tech Stack
